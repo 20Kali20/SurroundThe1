@@ -98,6 +98,3 @@ def SurroundThe1(arr):
                     out += 1
                 num = 0
     return out
-
-print(SurroundThe1([[1, 0, 0], [1, 1, 0], [0, 1, 0]]))
-print(SurroundThe1([[1]]))
